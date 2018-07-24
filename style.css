@@ -1,0 +1,56 @@
+body {
+    color: whitesmoke;
+    background: RGB(53,53,53);
+}
+
+.top img {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.watch_container{
+    background-color: #1a1818;
+    border-radius: 13px;
+    border-color: #FDEFA6;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.watch_container img {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+header {
+    font-size: 72px;
+    text-align: center;
+}
+
+
+h3{
+    font-size: 26px;
+    text-align: center; 
+}
+
+img{
+    width: 540px;
+}
+h2{
+    margin: 16px;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+
+footer{
+    margin: 25px;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
